@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the RockPaperKenchi 1.0
+---------------------------------------------------
+
+app_name - 						RockPaperKenchi
+app_alias - 					rockpaperkenchi
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Maharashtra
+app_author_country - 			India
+app_password - 					ZC9wvRSlT53b
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 19th of June 2025 02:48:07 PM
+
+https://demo.webintoapp.com
+---------------------------------------------------
+
